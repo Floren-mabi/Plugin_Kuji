@@ -1,0 +1,12 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/.vs
+/Plugin_Kuji/bin/Debug
+/Plugin_Kuji/obj
+/Plugin_Kuji/bin/Release/Interop.SpeechLibB.dll
+/Plugin_Kuji/bin/Release/Interop.SpeechLibA.dll
+/Plugin_Kuji/bin/Release/Interop.SHDocVw.dll
+/Plugin_Kuji/bin/Release/BouyomiChan.exe
+/Plugin_Kuji/bin/Release/AxInterop.SHDocVw.dll
